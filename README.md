@@ -1,6 +1,6 @@
 # INFO2302FINALPROJECT3
        Name:                             Contribution:                                             Creat:
-1.Mohammad Raihanul Islam 1825891          Modules&support Pages using javascript,API,JQurey    Header,footer,navigation,main content,adding image,
+1.Mohammad Raihanul Islam 1825891          Modules&support Pages using javascript,API,JQurey,css,    Header,footer,navigation,main content,adding image,
 
 javascript
 
